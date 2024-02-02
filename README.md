@@ -1,5 +1,7 @@
 <h1 align=center>I'm Riccardo. Welcome to My Profile!</h1>
 
+<img src="XLR_Cables_Cut.png" alt="Couldn't load image, oops..." style="width:100%">
+
 # 🎧 About Me:
 I am a MSc student in Music and Acoustic Engineering at Politecnico di Milano and a Researcher at LWT3. My current areas of expertise are Digital Signal Processing and AI. 
 
